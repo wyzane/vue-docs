@@ -19,9 +19,9 @@ npm run dev
 
 ### 6. 目录介绍
 src: 源码文件
-    App.vue: 第一个vue组件
-    main.js: 入口文件
-    componemts: 子组件所在目录
+  App.vue: 第一个vue组件
+  main.js: 入口文件
+  componemts: 子组件所在目录
 config: 环境配置文件
 static: 静态文件
 
